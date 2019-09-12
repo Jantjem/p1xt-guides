@@ -14,7 +14,7 @@ Copy:
 
 
 
-### Day 0: Sept 9, 2019 
+### Day 0: Sept 10, 2019 
 
 **Today's Progress**: Followed along with Khan Academy Intro to JS 
 
@@ -24,10 +24,32 @@ I'll also read this article today. A recommendation by Barb (Learning How to Lea
 **Link to work:** /
 
 
-### Day 1: Sept 10, 2019 
+### Day 1: Sept 11, 2019 
 
 **Today's Progress**: Followed along with Khan Academy Intro to JS 
 
 **Thoughts:** I learned about if/else statements. I wish I could go faster and create something, but I want to build a good foundation, so I will carry on with the basics.
 
 **Link to work:** /
+
+
+### Day 2: Sept 12, 2019 
+
+**Today's Progress**: Followed along with Khan Academy Intro to JS 
+
+**Thoughts:** I learned about While loops, using the following questions:
+
+/* Three Loop questions:
+ 1. What do I want to repeat? 
+   -> The text function with the message!
+ 2. What do I want to change each time? 
+   -> The y position, increasing by 20 each time.
+ 3. How long should we repeat?
+   -> As long as y is less than 400, all the way down.
+
+**Link to work:** /
+
+
+
+
+*/ 
